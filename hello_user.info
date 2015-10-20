@@ -1,0 +1,5 @@
+name = Hello User
+description = Routes the administrator to a success page when a new user account is created.
+package = Micah's Modules
+core = 7.x
+files[] = hello_user.module
